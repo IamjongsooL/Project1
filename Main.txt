@@ -1,0 +1,2 @@
+Main Text file
+이것은 텍스트입니다.
